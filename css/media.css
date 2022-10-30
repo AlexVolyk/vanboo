@@ -1,0 +1,123 @@
+@media (max-width: 1350px) {
+    .next-cont__image-inner {
+        width: 350px;
+    }
+
+    .images__img-inner {
+        width: 350px;
+        height: 270px;
+        box-shadow: 0px 0px 10px 16px rgba(0, 0, 0, 0.1);
+    }
+
+    .command__img-inner {
+        width: 150px !important;
+        height: 150px !important;
+        overflow: hidden;
+        box-shadow: 0px 8px 7px 3px rgba(0, 0, 0, 0.1);
+    }
+
+    .pan_drop__img {
+        width: 30%;
+    }
+
+    .eagle_spot__img {
+        width: 60%;
+    }
+}
+
+@media (max-width: 1250px) {
+
+    .backgorund-spot2 {
+        width: 30%;
+    }
+
+    .man__img {
+        width: 30%;
+    }
+
+
+}
+
+@media (max-width: 1200px) {
+    .next-cont__image-inner {
+        width: 290px;
+    }
+
+    .images__img-inner {
+        width: 290px;
+        height: 250px;
+        box-shadow: 0px 0px 10px 16px rgba(0, 0, 0, 0.1);
+    }
+
+    .hand-l__img,
+    .hand-r__img {
+        width: auto !important;
+        height: 20% !important;
+    }
+
+    .spot__img {
+        height: 80%;
+    }
+}
+
+@media (max-width: 950px) {
+
+    .backgorund-assasin {
+        background-size: cover;
+    }
+
+    .revolution__header-word {
+        font-size: 4rem;
+    }
+
+    .next-cont__image-inner {
+        width: 240px;
+    }
+
+    .images__img-inner {
+        width: 240px;
+        height: 180px;
+        box-shadow: 0px 0px 10px 16px rgba(0, 0, 0, 0.1);
+    }
+
+    .command__img-inner {
+        width: 100px !important;
+        height: 100px !important;
+        overflow: hidden;
+        box-shadow: 0px 8px 7px 3px rgba(0, 0, 0, 0.1);
+    }
+
+
+    .hand-l__img,
+    .hand-r__img {
+        width: auto !important;
+        height: 10% !important;
+    }
+
+    .spot__img {
+        height: 60%;
+
+    }
+
+    .btn {
+        font-size: 1.5rem;
+    }
+
+}
+
+@media (max-width: 800px) {
+    .next-cont__image-inner {
+        width: 180px;
+    }
+
+    .images__img-inner {
+        width: 180px;
+        height: 120px;
+        box-shadow: 0px 0px 10px 16px rgba(0, 0, 0, 0.1);
+    }
+
+    .next-cont__images__list p {
+        font-size: 0.7rem;
+    }
+
+}
